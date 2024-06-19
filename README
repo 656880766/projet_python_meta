@@ -1,0 +1,41 @@
+
+# Gestion de Bibliothèque
+
+## Description
+Ce projet est une application de gestion de bibliothèque utilisant une interface graphique avec CustomTkinter. L'application permet d'ajouter des livres avec les détails suivants :
+- Titre
+- Auteur
+- Description
+- Maison d'Edition
+- Date d'Ajout
+- Image
+
+## Installation
+1. Clonez le dépôt :
+   ```bash
+   git clone <url_du_dépôt>
+   ```
+2. Accédez au répertoire du projet :
+   ```bash
+   cd BOOK_CATALOG
+   ```
+3. Installez les dépendances :
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Utilisation
+1. Exécutez l'application :
+   ```bash
+   python src/__main__.py
+   ```
+2. Utilisez l'interface graphique pour ajouter et visualiser les livres dans la bibliothèque.
+
+## Structure du Projet
+- `src/` : Contient les fichiers sources de l'application.
+- `test/` : Contient les fichiers de test pour l'application.
+- `requirements.txt` : Liste des dépendances nécessaires pour exécuter l'application.
+- `README.md` : Fichier que vous lisez actuellement.
+
+## Auteur
+Votre nom
